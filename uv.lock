@@ -648,14 +648,11 @@ wheels = [
 
 [[package]]
 name = "spectree"
-version = "2.0.2"
+version = "3.0.0"
 source = { registry = "https://pypi.org/simple" }
-dependencies = [
-    { name = "pydantic" },
-]
-sdist = { url = "https://files.pythonhosted.org/packages/6c/38/b1011df9b365e4bc3c861fbf5b0b429bc1fa5d974f29c7e1708331a6b8f1/spectree-2.0.2.tar.gz", hash = "sha256:68854bc1c76c96d49079b1050c368b03e1d25b7d7360f771d382745fee03dcfd", size = 60176, upload-time = "2026-08-31T00:54:52.892Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/a9/41/083cea293498afdcbc5ab432020a67b12951ef60ed89285ec9bb58824f0a/spectree-3.0.0.tar.gz", hash = "sha256:5d8db610f1f0adfddf9200c8b022f49e587b72b117e1958b9939b29258910452", size = 57076, upload-time = "2026-09-10T15:20:29.148Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/65/bf/e50dc2ffa53fa05d1a0ad9269f889a16f250241bb12f7cd7cbf14797cda4/spectree-2.0.2-py3-none-any.whl", hash = "sha256:f68f3b0a8dbb26e64881c6596083a83b2184d0cb4a933054a2cb6406e8e75182", size = 44901, upload-time = "2026-08-31T00:54:51.793Z" },
+    { url = "https://files.pythonhosted.org/packages/35/bf/8b2436b30128b161610feabf8cd067b593492a5db09b9c4557e187b3ab6a/spectree-3.0.0-py3-none-any.whl", hash = "sha256:6fe5f6beb6fe26dd57cc206f4ada5af01aeff20d67398664eda9dd01564236d2", size = 53392, upload-time = "2026-09-10T15:20:27.922Z" },
 ]
 
 [[package]]
